@@ -1,4 +1,4 @@
-Rhoda is a software engineer, entrepreneur, and best-selling book author. Her mission is to make team life better, more fun, and happier. 
+Rhoda is a software engineer, entrepreneur, and best-selling book co-author. Her mission is to make team life better, more fun, and happier. 
 
 She is the founder and CEO of [Woolfie](https://www.woolfie.team), a startup looking to bring fun back into remote work. She is also currently a software engineer at Cash App, and she's been working in and around Agile teams for the past 7 years.
 
