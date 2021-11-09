@@ -10,3 +10,4 @@ In her spare time, she jumps from hobby to hobby. At the moment, she likes croch
 
 - [Twitter](https://twitter.com/rhodaesq)
 - [LinkedIn](https://www.linkedin.com/in/rhoda-esquivel/)
+- [Fempowered Book](http://fempoweredfounders.com/)
