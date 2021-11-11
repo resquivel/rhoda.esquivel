@@ -1,10 +1,9 @@
-Rhoda is a software engineer, entrepreneur, and best-selling book co-author. Her mission is to make team life better, more fun, and happier. 
+Rhoda Esquivel is a software engineer, entrepreneur and author. Her mission is to make team life better by making it more fun and enjoyable. She is the founder and CEO of [Woolfie](https://www.woolfie.team), a startup looking to bring joy back into remote work. She is also currently a software engineer at Cash App. She's been working in and around Agile teams for the past 7 years.
 
-She is the founder and CEO of [Woolfie](https://www.woolfie.team), a startup looking to bring fun back into remote work. She is also currently a software engineer at Cash App, and she's been working in and around Agile teams for the past 7 years.
-
-In the past 3 years, she has previously worked as an engineer in an Agile, distributed team spanning 2 countries -- in-office, hybrid, and fully-remote. These experiences have given her various insights into better ways of navigating this increasingly remote world.
+In the recent 3 years, she’s worked as an engineer in an Agile, distributed team spanning 2 countries. She has worked in an in-office, hybrid, and fully-remote team settings. These experiences have given her insight into cheerful ways to work together, remotely.
 
 In her spare time, she jumps from hobby to hobby. At the moment, she likes crocheting and watching the UFC, but not at the same time!
+
 
 ### Links:
 
